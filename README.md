@@ -52,6 +52,9 @@ To conduct a comprehensive financial data analysis of the S&P 500 companies data
 4) Performed Financial Analysis
 5) Data Visualization
 
+## Excel Dashboard :
+![image](https://github.com/Safrin03/Mysql-financial-analysis/assets/135222070/e46e19ec-ce57-4e23-9268-f7473338cdad)
+
 ## Summary Findings :
 **Dataset Overview:**
 - The dataset contains information on various financial metrics for 494 companies, including symbols, names, sectors, prices, P/E ratios, dividend yields, EPS, and more.
