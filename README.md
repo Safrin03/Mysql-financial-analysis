@@ -53,8 +53,10 @@ To conduct a comprehensive financial data analysis of the S&P 500 companies data
 5) Data Visualization
 
 ## Sql queries :
-[1-Click here](https://github.com/Safrin03/Mysql-financial-analysis/blob/main/Questions%26Answers.md)
-[2-Click here](https://github.com/Safrin03/Mysql-financial-analysis/blob/main/Sql_queries.md)
+[1-Click here](https://github.com/Safrin03/Mysql-financial-analysis/blob/main/Sql_queries.md)
+
+[2-Click here](https://github.com/Safrin03/Mysql-financial-analysis/blob/main/Questions%26Answers.md)
+
 
 ## Excel Dashboard :
 ![image](https://github.com/Safrin03/Mysql-financial-analysis/assets/135222070/e46e19ec-ce57-4e23-9268-f7473338cdad)
